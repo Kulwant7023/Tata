@@ -1,0 +1,12 @@
+#stepForVegetableSalad{
+    text-align: center;
+    list-style: inside;
+}
+
+div, footer {
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+}
